@@ -1,3 +1,7 @@
-hfasdf
+juyutyut<<<<<< HEAD
+f
 
 ello
+dffsdfsdfsdafa
+fdsfsad
+>>>>>>> dev
